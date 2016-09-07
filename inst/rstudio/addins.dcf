@@ -1,0 +1,4 @@
+Name: Radiant - Wordcloud
+Description: Start Radiant - Wordcloud
+Binding: radiant.wordcloud
+Interactive: true
